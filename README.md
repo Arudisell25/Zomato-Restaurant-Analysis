@@ -2,7 +2,7 @@
 The project task was to analyze customer data and order history to identify purchasing trends using Power BI and Word.
 # Table of Contents
 
-1. [Project Overview](#project-overview)
+1. [Project Overview](#project-overview) Zomato Business Report.pdf 
 2. [Data Sources](#data-sources)
 3. [Tools and Technologies Used](#tools-and-technologies-used)
 4. [Data Preparation and Cleaning](#data-preparation-and-cleaning)
