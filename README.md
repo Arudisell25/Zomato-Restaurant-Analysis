@@ -26,3 +26,4 @@ The project task was to analyze customer data and order history to identify purc
 ---
 ![image](https://github.com/user-attachments/assets/b401911a-b606-491d-baac-9ef1d8b42319)
 
+![image](https://github.com/user-attachments/assets/a43e2945-ab59-471a-94b8-26aee2b0b1fe)
