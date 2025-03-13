@@ -24,4 +24,5 @@ The project task was to analyze customer data and order history to identify purc
 12. [References](#references)
 
 ---
+![image](https://github.com/user-attachments/assets/b401911a-b606-491d-baac-9ef1d8b42319)
 
